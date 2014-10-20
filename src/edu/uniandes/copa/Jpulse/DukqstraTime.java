@@ -17,7 +17,7 @@ package edu.uniandes.copa.Jpulse;
 
 
 public class DukqstraTime {
-	public static int C;
+	public int C;
 	private int Delta;
 	private PulseGraph G;
 	private Bucket[] lowLevelBuckets;
